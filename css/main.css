@@ -5,8 +5,8 @@
 }
 #container {
   position: relative;
-  top: 50px;
-  left: 50px;
+  top: 0px;
+  left: 0px;
   width: 728px;
   height: 90px;
   overflow: hidden;
